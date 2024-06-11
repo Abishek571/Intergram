@@ -1,6 +1,6 @@
 {
-    "name": "famlicious_app",
-    "short_name": "famlicious_app",
+    "name": "Intergram",
+    "short_name": "Intergram",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

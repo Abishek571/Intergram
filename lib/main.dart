@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Famlicious',
+      title: 'Intergram',
       theme: ThemeData(
           iconTheme: const IconThemeData(color: Colors.black),
           scaffoldBackgroundColor: const Color.fromRGBO(249, 251, 252, 1),
